@@ -1,7 +1,7 @@
 # My_stanCode_project
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course\
-Please watch my *[DEMO VEDIOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)!*
+Please watch my *[DEMO VEDIOS](https://drive.google.com/drive/folders/1XNR0XL3n6M-YSMuuLJO5lNW37Hd_qMeJ?usp=sharing)!*
 # Project Source Codes
 * [Hangman Game](https://github.com/Jan0714/My_stanCode_project/blob/main/stancode%20project/hangman_game/hangman.py)
   * python semantics & syntax

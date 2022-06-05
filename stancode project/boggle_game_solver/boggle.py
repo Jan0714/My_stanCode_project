@@ -1,8 +1,9 @@
 """
 File: boggle.py
-Name:
+Name:Jan Guo
 ----------------------------------------
-TODO:
+This program create a Boggle Game recursively finds all the words
+from the 4*4 boggle board that user input letters for each row.
 """
 
 # This is the file name of the dictionary txt file

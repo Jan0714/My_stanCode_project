@@ -4,7 +4,9 @@ Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
 and Jerry Liao.
 
-YOUR DESCRIPTION HERE
+
+This program plays a game called "break out" in which players moving the paddle to make the ball bounce
+and break all bricks!
 """
 
 from campy.gui.events.timer import pause

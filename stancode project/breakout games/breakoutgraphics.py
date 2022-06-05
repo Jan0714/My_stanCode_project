@@ -4,7 +4,10 @@ Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman, 
 and Jerry Liao
 
-YOUR DESCRIPTION HERE
+This program makes a game called "break out".
+This program set bricks, the ball, the velocity of ball,
+the paddle, and all the items and conditions
+which will be used in the "break out" game.
 """
 from campy.graphics.gwindow import GWindow
 from campy.graphics.gobjects import GOval, GRect, GLabel

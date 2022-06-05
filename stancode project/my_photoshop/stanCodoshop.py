@@ -7,7 +7,9 @@ Ghost assignment by Jerry Liao.
 
 -----------------------------------------------
 
-TODO:
+This program can compare several photos,find out the best pixel,
+and export a new photo with no sundries or strangers.
+(photos which need to be compared should be the same size)
 """
 
 import os

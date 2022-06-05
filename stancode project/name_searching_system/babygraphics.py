@@ -3,7 +3,8 @@ SC101 Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
 Jerry Liao.
 
-YOUR DESCRIPTION HERE
+This program can show a line chart(with name, rank and years on it) when users type the names.
+The rank of the name data is based on the dictionary 'name_data' in babynames.py.
 """
 
 import tkinter
